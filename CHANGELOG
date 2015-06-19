@@ -1,3 +1,5 @@
+2.8.2 - Adam Yohrling
+  * Fixed segfault in init status on RHEL/CentOS systems - Issue 188
 2.8.1 - Adam Yohrling
   * Support for BitBucket Merge Hooks
 2.8.0 - Tom linkin
