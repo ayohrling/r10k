@@ -18,6 +18,8 @@
 
 ## Overview
 
+NOTE: This module was forked from zack/r10k to support BitBucket pullmerge from the webhook. This module will be removed once this feature becomes available in the zack/r10k module. Issue and pull request has been submitted to initial project.
+
 This module was built to install and configure r10k. It has a base class to configure r10k to
 synchronize [dynamic environments](https://github.com/adrienthebo/r10k/blob/master/doc/dynamic-environments.mkd).
 It also has a series of lateral scripts and tools that assist in general workflow, that will be seperated into
