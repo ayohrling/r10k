@@ -1,3 +1,5 @@
+2.8.5 - Adam Yohrling
+  * Reverted Bitbucket support to inline per Zack convo
 2.8.4 - Adam Yohrling
   * Updated BitBucket support JSON
 2.8.3 - Adam Yohrling
