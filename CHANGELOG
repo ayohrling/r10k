@@ -1,3 +1,6 @@
+2.8.6 - Adam Yohrling
+  * Added inline rescue statements to hash lookups so code
+    does not throw NoMethodFound errors
 2.8.5 - Adam Yohrling
   * Reverted Bitbucket support to inline per Zack convo
 2.8.4 - Adam Yohrling
